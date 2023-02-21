@@ -1,0 +1,14 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "Tailwind css practice",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "author": "prince",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
